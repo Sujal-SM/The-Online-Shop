@@ -40,8 +40,8 @@ A modern, responsive e-commerce platform built with React, featuring a sophistic
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/iemafzalhassan/online-shop.git
-cd online-shop
+git clone https://github.com/Sujal-SM/The-Online-Shop.git
+cd The-Online-Shop
 ```
 
 2. Install dependencies:
@@ -172,7 +172,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - React team for the amazing framework
 - Bootstrap team for the UI components
 - All our contributors and supporters
-
-## 📞 Support
-
-For support, email iemafzalhassan@gmail.com or join our [Discord channel](https://discord.gg/aVMWfSKA). 
