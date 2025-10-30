@@ -12,6 +12,7 @@ A modern, responsive e-commerce platform built with React, featuring a sophistic
 
 
 
+
 ## 🌟 Features
 
 - **Responsive Design**: Fully responsive UI that works seamlessly across all devices
