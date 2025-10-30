@@ -65,7 +65,7 @@ npm run build
 
 ```bash
 # Build the Docker image
-docker build -t online-shop .
+docker build -t online-shop 
 ```
 
 ### Running the Container
